@@ -13,7 +13,7 @@
 
 [developers.trustroots.org](http://developers.trustroots.org/)
 
-You don't have the be a programmer to participate. Check [volunteers page](https://www.trustroots.org/volunteering) for more info.
+You don't have to be a programmer to participate. Check [volunteers page](https://www.trustroots.org/volunteering) for more info.
 
 
 ## Development
